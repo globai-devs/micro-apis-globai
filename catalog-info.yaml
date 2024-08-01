@@ -4,6 +4,9 @@ metadata:
   name: "micro-api-globai"
   annotations:
     github.com/project-slug: globai-devs/micro-apis-globai
+  tags:
+    - js
+    - express
 spec:
   type: service
   owner: user:guest
