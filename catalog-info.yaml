@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "micro-api-globai"
   annotations:
-    github.com/project-slug: value
+    github.com/project-slug: https://github.com/globai-devs
 spec:
   type: service
   owner: user:guest
